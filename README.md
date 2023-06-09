@@ -1,4 +1,4 @@
-# Backroads App
+# Margical Nyeri
 
 [Working Application - Deployed](https://backroads-app.netlify.app/)
 
