@@ -44,7 +44,7 @@ export const tours = [
     text: 'lorem ipsum dolor sit amet, consectetur adip',
     state: 'Town',
     days: '6 days',
-    price: '2100',
+    price: '4100',
   },
   {
     id: 2,
@@ -54,7 +54,7 @@ export const tours = [
     text: 'lorem ipsum dolor sit amet',
     state: 'Mathira',
     days: '6 days',
-    price: '2100',
+    price: '900',
   },
   {
     id: 3,
@@ -64,7 +64,7 @@ export const tours = [
     text: 'lorem ipsum dolor sit amet, con',
     state: 'Nyeri',
     days: '6 days',
-    price: '2100',
+    price: '1100',
   },
   {
     id: 4,
@@ -84,7 +84,7 @@ export const tours = [
     text: 'lorem ipsum lorem ipsum',
     state: 'KImathi',
     days: '6 days',
-    price: '2100',
+    price: '500',
   },
   {
     id: 5,
@@ -94,6 +94,6 @@ export const tours = [
     text: 'lorem ipsum',
     state: 'Chieni',
     days: '6 days',
-    price: '2100',
+    price: '700',
   },
 ]
