@@ -18,7 +18,7 @@ export const socialLinks = [
   },
   {
     id: 3,
-    href: 'https://www.instagram.com/anmartdevelopers',
+    href: 'https://www.instagram.com/anmartdevs',
     icon: 'fab fa-instagram',
   },
 ]
