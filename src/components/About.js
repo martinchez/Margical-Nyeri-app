@@ -3,8 +3,7 @@ import Title from './title'
 const About = () => {
   return (
     <section class="section" id="about">
-      
-    <Title  title="About" subTitle="Us" />
+      <Title title="About" subTitle="Us" />
       <div class="section-center about-center">
         <div class="about-img">
           <img src={aboutImg} class="about-photo" alt="awesome beach" />
@@ -21,7 +20,7 @@ const About = () => {
             quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
             unde dolor?
           </p>
-          <a href="#" class="btn">
+          <a href="#about" class="btn">
             read more
           </a>
         </article>
