@@ -10,11 +10,11 @@
 
 #### Home Page!
 
-[Our Home page design with the Navigation bar](Home%20page%20Navbar.jpg) 
+![Our Home ](Home%20page%20Navbar.jpg) 
 
 #### About us section
-[About us section](aboutus.jpg) 
+![About us section](aboutus.jpg) 
 
 #### About us section
-[About us section](featured%20tours.jpg) 
+![About us section](https://github.com/martinchez/Margical-Nyeri-app/blob/master/featured%20tours.jpg) 
 
